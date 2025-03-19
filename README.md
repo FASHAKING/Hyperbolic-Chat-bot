@@ -34,7 +34,7 @@ sudo apt install git screen python3 python3-pip python3-venv -y
 git clone [https://github.com/FASHAKING/Hyperbolic-Chat-bot](https://github.com/FASHAKING/Hyperbolic-Chat-bot.git)
 cd Hyperbolic-Chat-bot
 ```
-3.Install Dependencies
+3. Install Dependencies
 ```console
 python3 -m venv venv
 source venv/bin/activate
